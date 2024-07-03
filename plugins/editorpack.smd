@@ -1,25 +1,8 @@
-/**
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-*
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+
+   * @project_name : TOHID-KHAN
+   * @author : MR TOHID
+   * @youtube : https://www.youtube.com/@tohidkhan_6332
+   * @description : tohid-khan ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
@@ -29,7 +12,7 @@
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "mr tohid Whatsapp bot md"
 //let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app" 
 
 
