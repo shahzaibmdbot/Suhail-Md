@@ -1,5 +1,8 @@
  <h1 align="center"> Mr Tohid </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
+<p align="center">
+<img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg" />
+</p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
