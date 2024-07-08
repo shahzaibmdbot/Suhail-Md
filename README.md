@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Mr Tohid </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@tohidkhan_6332">
     <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
